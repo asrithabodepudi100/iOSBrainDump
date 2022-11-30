@@ -6,3 +6,4 @@ A purposeless project/playground to practice my iOS skills. Can serve as a test 
 - Databases (GRDBs)
 - UI Design using SwiftUI 
 - Integrations w/ AWS 
+- Concurrency. async/await, actors 
